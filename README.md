@@ -4,6 +4,11 @@
 Soy estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma), con un background en diseño gráfico interactivo que me ha permitido desarrollar una visión creativa y orientada a la tecnología.. Me apasiona combinar la estética y la funcionalidad para crear soluciones visuales y digitales que conecten con las personas. Me adapto a los nuevos retos y disfruto trabajando en equipo. Mi formación me permite abordar proyectos desde el diseño hasta el desarrollo, aportando versatilidad, compromiso y detalle en cada proyecto
 
 ## Tecnologias
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ### Lenguajes de diseño
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
