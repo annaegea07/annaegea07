@@ -20,12 +20,11 @@ Soy estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma), con un backg
 
 ### 🌊 OCEAN — Tipografia Modular
 👉 [alumnesemad.cat/egea_anna/OCEAN](https://alumnesemad.cat/egea_anna/OCEAN/)
-Microsite per promocionar una tipografia modular pròpia creada al Grau Mitjà de Disseny Gràfic Interactiu. Inclou font tester interactiu, slider, galeria de mockups i elements audiovisuals.
+Microsite para promocionar una tipografía modular propia creada en el Grado Medio de Diseño Gráfico Interactivo. Incluye fuente tester interactivo, slider, galería de mockups y elementos audiovisuales.
 
 ### ✈️ Travel Dashboard
 👉 [0373-dam-pr2-annaegea07.vercel.app](https://0373-dam-pr2-annaegea07.vercel.app/)
-Dashboard responsive amb HTML, CSS i JavaScript vanilla que mostra clima, probabilitat de pluja, moneda local i conversió des d'euros mitjançant APIs externes, amb selector de ciutat i missatge de recomanació dinàmic.
-
+Dashboard responsive con HTML, CSS y JavaScript vanilla que muestra clima, probabilidad de lluvia, moneda local y conversión desde euros mediante APIs externas, con selector de ciudad y mensaje de recomendación dinámico.
 <!--
 **annaegea07/annaegea07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
