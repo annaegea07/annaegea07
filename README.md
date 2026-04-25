@@ -17,8 +17,14 @@ Soy estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma), con un backg
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## Proyectos
-👉 https://0373-dam-pr2-annaegea07.vercel.app/
-#### Creación de un Travel Dashboard responsive con HTML, CSS y JavaScript vanilla que muestra clima, lluvia, moneda y conversión mediante APIs, con selector de ciudad y mensaje de recomendación dinámico
+
+### 🌊 OCEAN — Tipografia Modular
+👉 [alumnesemad.cat/egea_anna/OCEAN](https://alumnesemad.cat/egea_anna/OCEAN/)
+Microsite per promocionar una tipografia modular pròpia creada al Grau Mitjà de Disseny Gràfic Interactiu. Inclou font tester interactiu, slider, galeria de mockups i elements audiovisuals.
+
+### ✈️ Travel Dashboard
+👉 [0373-dam-pr2-annaegea07.vercel.app](https://0373-dam-pr2-annaegea07.vercel.app/)
+Dashboard responsive amb HTML, CSS i JavaScript vanilla que mostra clima, probabilitat de pluja, moneda local i conversió des d'euros mitjançant APIs externes, amb selector de ciutat i missatge de recomanació dinàmic.
 
 <!--
 **annaegea07/annaegea07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
