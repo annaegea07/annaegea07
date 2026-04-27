@@ -25,6 +25,10 @@ Microsite para promocionar una tipografía modular propia creada en el Grado Med
 ### ✈️ Travel Dashboard
 👉 [0373-dam-pr2-annaegea07.vercel.app](https://0373-dam-pr2-annaegea07.vercel.app/)
 Dashboard responsive con HTML, CSS y JavaScript vanilla que muestra clima, probabilidad de lluvia, moneda local y conversión desde euros mediante APIs externas, con selector de ciudad y mensaje de recomendación dinámico.
+
+### 📄 Currículum Web
+👉 [0373-dam-pr1-annaegea07.vercel.app](https://0373-dam-pr1-annaegea07.vercel.app/)
+Pàgina web personal per presentar el Currículum Vitae, desenvolupada amb HTML5, CSS3 i JavaScript. Segueix la metodologia Mobile First, amb disseny responsive i optimitzada per a impressió i descàrrega.
 <!--
 **annaegea07/annaegea07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
