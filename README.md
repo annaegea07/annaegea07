@@ -23,11 +23,11 @@ Soy estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma), con un backg
 Microsite para promocionar una tipografía modular propia creada en el Grado Medio de Diseño Gráfico Interactivo. Incluye fuente tester interactivo, slider, galería de mockups y elementos audiovisuales.
 
 ### ✈️ Travel Dashboard
-👉 [0373-dam-pr2-annaegea07.vercel.app](https://0373-dam-pr2-annaegea07.vercel.app/)
+👉 [Travel-Dashboard](https://github.com/annaegea07/Travel-Dashboard.git)
 Dashboard responsive con HTML, CSS y JavaScript vanilla que muestra clima, probabilidad de lluvia, moneda local y conversión desde euros mediante APIs externas, con selector de ciudad y mensaje de recomendación dinámico.
 
 ### 📄 Currículum Web
-👉 [0373-dam-pr1-annaegea07.vercel.app](https://0373-dam-pr1-annaegea07.vercel.app/)
+👉 [CV_Web_Professional](https://github.com/annaegea07/CV_Web_Professional.git)
 Página web personal para presentar el Currículum Vitae, desarrollada con HTML5, CSS3 y JavaScript. Sigue la metodología Mobile First, con diseño responsive y optimizada para impresión y descarga.
 <!--
 **annaegea07/annaegea07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
