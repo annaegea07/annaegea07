@@ -28,7 +28,7 @@ Dashboard responsive con HTML, CSS y JavaScript vanilla que muestra clima, proba
 
 ### 📄 Currículum Web
 👉 [0373-dam-pr1-annaegea07.vercel.app](https://0373-dam-pr1-annaegea07.vercel.app/)
-Pàgina web personal per presentar el Currículum Vitae, desenvolupada amb HTML5, CSS3 i JavaScript. Segueix la metodologia Mobile First, amb disseny responsive i optimitzada per a impressió i descàrrega.
+Página web personal para presentar el Currículum Vitae, desarrollada con HTML5, CSS3 y JavaScript. Sigue la metodología Mobile First, con diseño responsive y optimizada para impresión y descarga.
 <!--
 **annaegea07/annaegea07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
