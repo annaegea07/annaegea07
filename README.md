@@ -19,7 +19,7 @@ Soy estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma), con un backg
 ## Proyectos
 
 ### 🌊 OCEAN — Tipografia Modular
-👉 [alumnesemad.cat/egea_anna/OCEAN](https://alumnesemad.cat/egea_anna/OCEAN/)
+👉 [ocean-typeface](https://github.com/annaegea07/ocean-typeface.git)
 Microsite para promocionar una tipografía modular propia creada en el Grado Medio de Diseño Gráfico Interactivo. Incluye fuente tester interactivo, slider, galería de mockups y elementos audiovisuales.
 
 ### ✈️ Travel Dashboard
